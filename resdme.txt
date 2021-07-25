@@ -1,1 +1,5 @@
-hello world new
+<<<<<<< HEAD
+hello world dev
+=======
+hello world dev
+>>>>>>> dev
